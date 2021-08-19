@@ -1,0 +1,13 @@
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\bin\Release\netcoreapp3.1\JogoDaVelha1.exe
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\bin\Release\netcoreapp3.1\JogoDaVelha1.deps.json
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\bin\Release\netcoreapp3.1\JogoDaVelha1.runtimeconfig.json
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\bin\Release\netcoreapp3.1\JogoDaVelha1.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\bin\Release\netcoreapp3.1\JogoDaVelha1.dll
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\bin\Release\netcoreapp3.1\JogoDaVelha1.pdb
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\obj\Release\netcoreapp3.1\JogoDaVelha1.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\obj\Release\netcoreapp3.1\JogoDaVelha1.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\obj\Release\netcoreapp3.1\JogoDaVelha1.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\obj\Release\netcoreapp3.1\JogoDaVelha1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\obj\Release\netcoreapp3.1\JogoDaVelha1.dll
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\obj\Release\netcoreapp3.1\JogoDaVelha1.pdb
+C:\Users\Administrador\source\repos\JogoDaVelha1\JogoDaVelha1\obj\Release\netcoreapp3.1\JogoDaVelha1.genruntimeconfig.cache
